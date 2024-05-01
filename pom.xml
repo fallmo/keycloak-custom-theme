@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.redhat.consulting</groupId>
-    <version>0.0.1-SNAPSHOT</version>
-    <artifactId>example-theme</artifactId>
+    <version>0.0.2</version>
+    <artifactId>heritage-theme</artifactId>
     <name>Custom Keycloak Theme</name>
     <description/>
     <packaging>jar</packaging>
