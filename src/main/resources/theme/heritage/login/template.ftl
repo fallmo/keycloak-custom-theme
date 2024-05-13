@@ -51,7 +51,9 @@
 <body class="heritage-body">
 <header class="heritage-header">
   <div></div>
-  <img src="${url.resourcesPath}/img/heritage-logo.svg" class="header-acacia"/>
+  <a href="https://heritage.africa">
+    <img src="${url.resourcesPath}/img/heritage-logo.svg" class="header-acacia"/>
+  </a>
 </header>
 
 <div class="heritage-main">

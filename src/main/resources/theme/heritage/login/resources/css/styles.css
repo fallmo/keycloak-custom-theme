@@ -21,7 +21,7 @@
     display: flex;
     justify-content: space-between;
     padding: 20px;
-    background-color: #ffffff12;
+    /* background-color: #ffffff12; */
 }
 
 .heritage-main-row {
@@ -50,11 +50,16 @@
 }
 
 .header-acacia {
-    height: 50px
+    height: 25px;
 }
 
 .login-pf-page{
     padding-top: 0 !important;
+}
+
+
+.pf-c-button {
+    border-radius: 5px;
 }
 
 .pf-v5-c-login__container {
